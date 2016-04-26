@@ -21,8 +21,6 @@ flygirlbai.github.com
 
 
 ## 关于我
-
 - Email：flygirl.bai@gmail.com
-- 
 - CSDN: http://blog.csdn.net/lulu198709
-- 
+
